@@ -1,6 +1,6 @@
 package util;
 
-import java.awt.*;
+import java.awt.Color;
 
 public class ColorFunctions {
     public static Color invert(Color c) {

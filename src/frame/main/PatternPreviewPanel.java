@@ -1,7 +1,6 @@
 package frame.main;
 
-import pattern.PatternRenderer;
-import pattern.PatternSettings;
+import pattern.*;
 import util.MyObserver;
 
 import javax.swing.JPanel;

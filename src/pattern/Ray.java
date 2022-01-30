@@ -1,7 +1,6 @@
 package pattern;
 
-import java.awt.geom.Point2D;
-import java.awt.geom.Line2D;
+import java.awt.geom.*;
 
 public class Ray {
 	private static final int LINE_LENGTH = Short.MAX_VALUE;

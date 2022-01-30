@@ -1,8 +1,6 @@
 package frame.dialog;
 
-import frame.MyContainable;
-import frame.MyFonts;
-import frame.MyFrameTools;
+import frame.*;
 import image.ImageSettings;
 import util.MyNumberFormatterFactory;
 

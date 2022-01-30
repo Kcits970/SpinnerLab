@@ -1,8 +1,6 @@
 package frame.main;
 
-import frame.MyContainable;
-import frame.MyFonts;
-import frame.MyFrameTools;
+import frame.*;
 import pattern.MyMath;
 import util.MyNumberFormatterFactory;
 
